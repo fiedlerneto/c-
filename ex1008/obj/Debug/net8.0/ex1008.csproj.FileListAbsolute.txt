@@ -1,0 +1,14 @@
+E:\C#\beecrowd\ex1008\bin\Debug\net8.0\ex1008.exe
+E:\C#\beecrowd\ex1008\bin\Debug\net8.0\ex1008.deps.json
+E:\C#\beecrowd\ex1008\bin\Debug\net8.0\ex1008.runtimeconfig.json
+E:\C#\beecrowd\ex1008\bin\Debug\net8.0\ex1008.dll
+E:\C#\beecrowd\ex1008\bin\Debug\net8.0\ex1008.pdb
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.AssemblyInfoInputs.cache
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.AssemblyInfo.cs
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.csproj.CoreCompileInputs.cache
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.dll
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\refint\ex1008.dll
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.pdb
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ex1008.genruntimeconfig.cache
+E:\C#\beecrowd\ex1008\obj\Debug\net8.0\ref\ex1008.dll
